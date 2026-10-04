@@ -5,27 +5,27 @@
 
 # A DICTIONARY stores data in KEY : VALUE pairs.
 #
-# Example:
-#
-# student = {
-#     "name": "Rahul",
-#     "age": 25,
-#     "city": "Pune"
-# }
-#
-# "name", "age", "city" -> KEYS
-# "Rahul", 25, "Pune"   -> VALUES
-#
-# Dictionaries are:
-# - Mutable -> we can change them
-# - Ordered in modern Python
-# - Keys must be unique
-# - Values can be duplicated
-# - Accessed using keys, NOT indexes
+Example:
+
+student = {
+    "name": "Rahul",
+    "age": 25,
+    "city": "Pune"
+}
+
+"name", "age", "city" -> KEYS
+"Rahul", 25, "Pune"   -> VALUES
+
+Dictionaries are:
+- Mutable -> we can change them
+- Ordered in modern Python
+- Keys must be unique
+- Values can be duplicated
+- Accessed using keys, NOT indexes
 
 
-# ============================================================
-# LEVEL 1 - DICTIONARY BASICS
+============================================================
+LEVEL 1 - DICTIONARY BASICS
 # ============================================================
 
 
